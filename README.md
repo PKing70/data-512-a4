@@ -15,9 +15,11 @@ The following components of my project are included in this repository:
 
 | File | Description |
 | --- | --- |
+| [DonorsChoicesPreso.pdf]() | [Adobe Acrobat](https://acrobat.adobe.com) version of slides for A5, the in-class presentation assignment accompying this project. |
 | [DonorsChoose.ipynb](https://github.com/PKing70/data-512-a6/blob/master/DonorsChoose.ipynb) | [Jupyter notebook](https://ipython.org/notebook.html) for project report. |
 | [LICENSE](https://github.com/PKing70/data-512-a6/blob/master/LICENSE) | MIT License for project code. |
 | README.md | This readme documenting the components and purpose of this repository. |
+| [Visualizations.png](https://github.com/PKing70/data-512-a6/blob/master/Visualizations.png) | [Portable Network Graphic](https://en.wikipedia.org/wiki/Portable_Network_Graphics) of DonorsChoose exploration portal screen shot. |
 
 The dataset used for this analysis is available from DonorsChoose.org Data, [Download Open Data](https://research.donorschoose.org/t/download-opendata/33). To download from that page, click **Download Project Data**. The downloaded file is opendata_projects000.gz, size 214.3 MB, downloaded on November 21, 2018. This file is too large to archive in a github repository, so should be obtained by download.
 
