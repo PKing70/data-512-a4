@@ -1,11 +1,11 @@
 # data-512-a6
-## Assignment 6: Donors' Choices Final Report
+## Assignment 6: Donors' Choices
 
-This repository contains my final project report for the Fall 2018 DATA 512 course, instructed by Jonathan Morgan and Os Keyes.
+This repository contains my final project report for University of Washington's Fall 2018 DATA 512 course ([course wiki](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018))), instructed by Jonathan Morgan and Os Keyes.
 
 ### Summary
 
-My project statistically analyzed the publicly available project data from DonorsChoose.org, specifcally looking for correlation between project subjects and funding success, or lack thereof. DonorsChoose makes easily accessible many statistics and visualizations showing project funding success, but since about 1/3 of project fail to get funded and "expire," I wanted to learn whether there were trends in which types of projects fail more often. My hypothesis is broadly that some subjects are positively correlated with funding success and others are negatively correlated. I want to show which subjects are so correlated
+My project statistically analyzed the publicly available project data from [DonorsChoose.org](https://www.donorschoose.org/), specifically looking for correlation between project subjects and funding success, or lack thereof. DonorsChoose makes easily accessible many statistics and visualizations showing project funding success, but since about 1/3 of project fail to get funded and "expire," I wanted to learn whether there were trends in which types of projects fail more often. My hypothesis is broadly that some subjects are positively correlated with funding success and others are negatively correlated. I want to show which subjects are so correlated.
 
 Given this information, I think that advice or recommendations could be formed that might help teachers define their project pages to attract more donors and achieve funding completion. In my project report, I cover my findings, as well as ramifications and opportunities for follow-on work.
 
@@ -22,7 +22,7 @@ The following components of my project are included in this repository:
 
 The code within this project repository is covered by an MIT license, [explained](https://en.wikipedia.org/wiki/MIT_License).
 
-All open DonorsChoose data is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/)). It is available for non-commercial use, and they provide these guidelines for commercial use: "If you'd like to use this data for commercial purposes, get in touch with us and tell us a bit about your plans. Our strong preference is to greenlight your commercial application with no licensing fees, and we have never charged for access to our API or data. We just need to make sure that the application won't run contrary to our org's mission, abuse the rich content that our teachers have created, etc" [DonorsChoose Download Opendata License section](https://research.donorschoose.org/t/download-opendata/33).
+All open DonorsChoose data is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/)). It is available for non-commercial use, and they provide these guidelines for commercial use: "If you'd like to use this data for commercial purposes, get in touch with us and tell us a bit about your plans. Our strong preference is to greenlight your commercial application with no licensing fees, and we have never charged for access to our API or data. We just need to make sure that the application won't run contrary to our org's mission, abuse the rich content that our teachers have created, etc." [DonorsChoose Download Opendata License section](https://research.donorschoose.org/t/download-opendata/33).
 
 ### Resources
 
@@ -34,4 +34,3 @@ Karp, Jonathan. "Want to Keep School Funding Alive? Put an End to DonorsChoose" 
 
 Tyre, Peg. "Beyond School Supplies: How DonorsChoose is Crowdsourcing Real Education Reform." *FastCompany* 2 October 2014: n.
 pag. Web. 21 November 2018 [<https://www.fastcompany.com/3025597/donorschoose-hot-for-teachers>](https://www.fastcompany.com/3025597/donorschoose-hot-for-teachers).
-
