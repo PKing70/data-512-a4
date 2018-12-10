@@ -17,11 +17,22 @@ The following components of my project are included in this repository:
 | --- | --- |
 | [DonorsChoicesPreso.pdf]() | [Adobe Acrobat](https://acrobat.adobe.com) version of slides for A5, the in-class presentation assignment accompying this project. |
 | [DonorsChoose.ipynb](https://github.com/PKing70/data-512-a6/blob/master/DonorsChoose.ipynb) | [Jupyter notebook](https://ipython.org/notebook.html) for project report. |
+| [donorschoose_corr.csv](https://github.com/PKing70/data-512-a6/blob/master/DonorsChoose.ipynb) | [CSV file](https://en.wikipedia.org/wiki/Comma-separated_values) for data to produce Pearson's correlation. |
+| [donorschoose_logit_X.csv](https://github.com/PKing70/data-512-a6/blob/master/DonorsChoose.ipynb) | CSV file for observation data to produce binary logistic regression. |
+| [donorschoose_logit_y.csv](https://github.com/PKing70/data-512-a6/blob/master/DonorsChoose.ipynb) | CSV file for resonse data to produce binary logistic regression. |
 | [LICENSE](https://github.com/PKing70/data-512-a6/blob/master/LICENSE) | MIT License for project code. |
 | README.md | This readme documenting the components and purpose of this repository. |
 | [Visualizations.png](https://github.com/PKing70/data-512-a6/blob/master/Visualizations.png) | [Portable Network Graphic](https://en.wikipedia.org/wiki/Portable_Network_Graphics) of DonorsChoose exploration portal screen shot. |
 
 The dataset used for this analysis is available from DonorsChoose.org Data, [Download Open Data](https://research.donorschoose.org/t/download-opendata/33). To download from that page, click **Download Project Data**. The downloaded file is opendata_projects000.gz, size 214.3 MB, downloaded on November 21, 2018. This file is too large to archive in a github repository, so should be obtained by download.
+
+### Reproducing this project
+
+To install and run this project:
+
+1. Download DonorsChoose.ipynb and copy it to your Python working directory. (If you must, use [os.getcwd()](https://docs.python.org/2/library/os.html) to determine it.)
+2. From DonorsChoose.org Data, download opendata_projects000.gz and copy it to your Python working directory.
+3. From Jupyter Notebook, run DonorsChoose.ipynb and run all cells.
 
 ### Licenses
 
