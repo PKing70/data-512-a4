@@ -44,6 +44,10 @@ All open DonorsChoose data is licensed under a Creative Commons Attribution-NonC
 
 Althoff, Tim and Leskovec, Jure. "Donor Retention in Online Crowdfunding Communities: A Case Study of DonorsChoose.org." *ACM International Conference on World Wide Web (WWW)* 2015 [<https://cs.stanford.edu/people/jure/pubs/donors-www15.pdf>](https://cs.stanford.edu/people/jure/pubs/donors-www15.pdf).
 
+Chokshi, Niraj. "94 Percent of U.S. Teachers Spend Their Own Money on School Supplies, Survey Finds." *New York Times*. Web. 16 May 2018 [<https://www.nytimes.com/2018/05/16/us/teachers-school-supplies.html>](https://www.nytimes.com/2018/05/16/us/teachers-school-supplies.html)
+
+CBS This Morning. “Stephen Colbert on $14M DonorsChoose.org funding by public figures.” YouTube, 10 Mar 2016, [<https://youtu.be/I4GMX0MJNYw>](https://youtu.be/I4GMX0MJNYw).
+
 DonorsChoose Data. "Download Data". Web. 21 November 2018 [<https://research.donorschoose.org/t/download-opendata>](https://research.donorschoose.org/t/download-opendata)
 
 Karp, Jonathan. "Want to Keep School Funding Alive? Put an End to DonorsChoose" *Mic* 11 July 2013: n-pag. Web. 21 November 2018 [<https://mic.com/articles/54021/want-to-keep-school-funding-alive-put-an-end-to-donorschoose>](https://mic.com/articles/54021/want-to-keep-school-funding-alive-put-an-end-to-donorschoose#.vCXQjvABc).
